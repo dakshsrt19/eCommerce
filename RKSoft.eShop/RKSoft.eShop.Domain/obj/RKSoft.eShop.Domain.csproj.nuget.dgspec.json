@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj": {}
+    "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {}
   },
   "projects": {
-    "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj": {
+    "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
-        "projectName": "RKSoft.eShop.Api",
-        "projectPath": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+        "projectUniqueName": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
+        "projectName": "RKSoft.eShop.Domain",
+        "projectPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Daksh\\.nuget\\packages\\",
-        "outputPath": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\obj\\",
+        "outputPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,40 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -95,9 +61,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
