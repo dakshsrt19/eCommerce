@@ -8122,11 +8122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+      "projectUniqueName": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
       "projectName": "RKSoft.eShop.Api",
-      "projectPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+      "projectPath": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
       "packagesPath": "C:\\Users\\Daksh\\.nuget\\packages\\",
-      "outputPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\obj\\",
+      "outputPath": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

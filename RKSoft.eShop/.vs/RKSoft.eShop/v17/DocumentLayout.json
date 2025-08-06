@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eCommerce\\RKSoft.eShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\rksoft.eshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\rksoft.eshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|d:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\migrations\\20250805055602_initial_identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\migrations\\20250805055602_initial_identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250805055602_Initial_IdentityUser.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:56:03.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:53:11.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:35:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\appsettings.json",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\appsettings.json",
+              "RelativeToolTip": "RKSoft.eShop.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T05:26:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:54:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Program.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Program.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:23:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:22:23.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\UserRole.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\UserRole.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:21:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\Register.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Register.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:19:59.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\Login.cs",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Login.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:19:29.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RKSoft.eShop.Api.csproj",
+              "DocumentMoniker": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+              "ToolTip": "D:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+              "RelativeToolTip": "RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T05:18:18.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
