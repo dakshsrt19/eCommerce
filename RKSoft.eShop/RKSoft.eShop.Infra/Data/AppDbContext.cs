@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using RKSoft.eShop.Domain.Entities;
 
-namespace RKSoft.eShop.Api.Data
+namespace RKSoft.eShop.Infra.Data
 {
     public class AppDbContext : IdentityDbContext<IdentityUser>
     {
@@ -10,10 +11,6 @@ namespace RKSoft.eShop.Api.Data
             : base(options)
         {
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-            // Additional model configuration can go here
-        }
+        public virtual DbSet<EStore> Stores { get; set; }
     }
 }

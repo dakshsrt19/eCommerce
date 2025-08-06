@@ -1,0 +1,12 @@
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\bin\Debug\net8.0\RKSoft.eShop.Domain.deps.json
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\bin\Debug\net8.0\RKSoft.eShop.Domain.dll
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\bin\Debug\net8.0\RKSoft.eShop.Domain.pdb
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.AssemblyInfoInputs.cache
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.AssemblyInfo.cs
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.csproj.CoreCompileInputs.cache
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.sourcelink.json
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.dll
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\refint\RKSoft.eShop.Domain.dll
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\RKSoft.eShop.Domain.pdb
+E:\Git Projects\eCommerce\RKSoft.eShop\RKSoft.eShop.Domain\obj\Debug\net8.0\ref\RKSoft.eShop.Domain.dll

@@ -1,7 +1,11 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using RKSoft.eShop.Api.Data;
+using RKSoft.eShop.Api;
+using RKSoft.eShop.App.Interfaces;
+using RKSoft.eShop.Infra.Data;
+using RKSoft.eShop.Infra.Repos;
+using RKSoft.eShop.Infra.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +53,15 @@ builder.Services.AddAuthorization(options =>
     options.AddPolicy("AdminOnly", policy => policy.RequireRole("Admin"));
     options.AddPolicy("UserOnly", policy => policy.RequireRole("User"));
 });
+
+builder.Services.AddAutoMapper(cfg => {
+    cfg.AddProfile<MappingProfile>();
+});
+
+builder.Services.AddScoped(typeof(IAppRepository<>), typeof(AppRepository<>));
+builder.Services.RegisterServices();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

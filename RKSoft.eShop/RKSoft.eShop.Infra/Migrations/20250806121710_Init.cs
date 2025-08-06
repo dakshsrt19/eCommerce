@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace RKSoft.eShop.Api.Migrations
+namespace RKSoft.eShop.Infra.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial_IdentityUser : Migration
+    public partial class Init : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

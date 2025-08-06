@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {}
+    "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {}
   },
   "projects": {
-    "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {
+    "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
+        "projectUniqueName": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
         "projectName": "RKSoft.eShop.Domain",
-        "projectPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
+        "projectPath": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Daksh\\.nuget\\packages\\",
-        "outputPath": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\obj\\",
+        "outputPath": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
