@@ -1,50 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\eCommerce\\RKSoft.eShop\\",
+  "WorkspaceRootPath": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.infra\\repos\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|solutionrelative:rksoft.eshop.infra\\repos\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.infra\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|solutionrelative:rksoft.eshop.infra\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\interfaces\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\interfaces\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|e:\\ecommerce\\rksoft.eshop\\rksoft.eshop.api\\rksoft.eshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91D96EE0-A5F8-44C4-9A37-EAC20574DE91}|RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj|solutionrelative:rksoft.eshop.api\\rksoft.eshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|solutionrelative:rksoft.eshop.infra\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\customeraddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\customeraddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A00E2-B81B-4182-AE18-151D287AA054}|RKSoft.eShop.Domain\\RKSoft.eShop.Domain.csproj|solutionrelative:rksoft.eshop.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.app\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1858A9-197B-4D30-8AE8-B2D60FE6DF33}|RKSoft.eShop.App\\RKSoft.eShop.App.csproj|solutionrelative:rksoft.eshop.app\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|e:\\git projects\\ecommerce\\rksoft.eshop\\rksoft.eshop.infra\\migrations\\20250806145302_basictables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991F3A3D-8C4E-4FD9-ADA5-27A1B8F26736}|RKSoft.eShop.Infra\\RKSoft.eShop.Infra.csproj|solutionrelative:rksoft.eshop.infra\\migrations\\20250806145302_basictables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,154 +130,368 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250805055602_Initial_IdentityUser.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Migrations\\20250805055602_Initial_IdentityUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:56:03.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\AdminController.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:53:11.134Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:35:08.269Z",
+              "WhenOpened": "2025-08-06T15:30:23.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\appsettings.json",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\appsettings.json",
-              "RelativeToolTip": "RKSoft.eShop.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T05:26:26.906Z",
-              "EditorCaption": ""
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\MappingProfile.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\MappingProfile.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:30:01.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RKSoft.eShop.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:54:25.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T15:23:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Services\\ProductService.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:20:03.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Program.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Program.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Program.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowEIAAAAVAAAAAAAAAA==",
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Services\\StoreService.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Services\\StoreService.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Services\\StoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:23:48.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:22:23.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\UserRole.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\UserRole.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:21:17.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T15:01:33.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Register.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\Register.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Register.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IStoreService.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Interfaces\\IStoreService.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IStoreService.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Interfaces\\IStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:19:59.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T15:00:12.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Interfaces\\IProductService.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:00:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Repos\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Repos\\StoreRepository.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Repos\\StoreRepository.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Repos\\StoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:58:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Repos\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Repos\\ProductRepository.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Repos\\ProductRepository.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Repos\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:58:16.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Login.cs",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\Models\\Login.cs",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\Models\\Login.cs",
-              "RelativeToolTip": "RKSoft.eShop.Api\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Interfaces\\IStoreRepository.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IStoreRepository.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Interfaces\\IStoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:19:29.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T14:56:48.909Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "RKSoft.eShop.Api",
-              "DocumentMoniker": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
-              "RelativeDocumentMoniker": "RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
-              "ToolTip": "E:\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
-              "RelativeToolTip": "RKSoft.eShop.Api\\RKSoft.eShop.Api.csproj",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:56:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250806145302_BasicTables.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806145302_BasicTables.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Migrations\\20250806145302_BasicTables.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806145302_BasicTables.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Migrations\\20250806145302_BasicTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T05:18:18.469Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:53:02.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250806145133_BasicTables.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Migrations\\20250806145133_BasicTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:51:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250806144754_Basic_table_structure.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Migrations\\20250806144754_Basic_table_structure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:47:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:42:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:39:57.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\Order.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:38:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Infra\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Infra\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RKSoft.eShop.Infra\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:22:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:09:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerAddressDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CustomerAddressDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\CustomerAddressDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CustomerAddressDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\CustomerAddressDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:37:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\CustomerAddress.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\CustomerAddress.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\CustomerAddress.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:33:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\CustomerDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:32:33.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\Customer.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:29:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\SupplierDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\SupplierDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\SupplierDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:22:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\Supplier.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:20:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductVariantDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\ProductVariantDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\ProductVariantDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\ProductVariantDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\ProductVariantDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:18:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\ProductVariant.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\ProductVariant.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\ProductVariant.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:11:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\ProductDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:10:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.App\\DTOs\\CategoryDto.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.App\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "RKSoft.eShop.App\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:08:26.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "RKSoft.eShop.Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\Git Projects\\eCommerce\\RKSoft.eShop\\RKSoft.eShop.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "RKSoft.eShop.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:06:14.318Z"
             }
           ]
         }

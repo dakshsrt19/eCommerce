@@ -10,10 +10,12 @@ namespace RKSoft.eShop.Api
         {
             // Register Repositories
             services.AddScoped<IStoreRepository, StoreRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
 
             // Register Services
             services.AddScoped<IStoreService, StoreService>();
-
+            services.AddScoped<IProductService, ProductService>();
+             
             return services;
         }
     }

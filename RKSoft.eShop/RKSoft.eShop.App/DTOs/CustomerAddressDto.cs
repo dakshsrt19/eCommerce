@@ -1,0 +1,24 @@
+﻿using RKSoft.eShop.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RKSoft.eShop.App.DTOs
+{
+    public class CustomerAddressDto
+    {
+        public int Id { get; set; }
+        public int CustomerId { get; set; }
+        public virtual Customer Customer { get; set; } = null!;
+        public string AddressLine1 { get; set; } = string.Empty;
+        public string AddressLine2 { get; set; } = string.Empty;
+        public string City { get; set; } = string.Empty;
+        public string State { get; set; } = string.Empty;
+        public string PostalCode { get; set; } = string.Empty;
+        public string Country { get; set; } = string.Empty;
+        public bool IsDefault { get; set; } = false;
+    }
+}

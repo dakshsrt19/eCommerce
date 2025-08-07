@@ -9,6 +9,7 @@ namespace RKSoft.eShop.Api
         public MappingProfile()
         {
             CreateMap<EStore, StoreDTO>().ReverseMap();
+            CreateMap<Product, ProductDto>().ReverseMap();
         }
     }
 }

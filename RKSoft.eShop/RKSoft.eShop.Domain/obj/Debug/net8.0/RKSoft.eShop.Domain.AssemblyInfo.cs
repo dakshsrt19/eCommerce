@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RKSoft.eShop.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3e63ce71220b25b8d0a84cd94fad6772c48457")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3a29b6de828cb045a6c77b10cab346fb6a93dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RKSoft.eShop.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RKSoft.eShop.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
